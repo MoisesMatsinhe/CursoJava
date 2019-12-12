@@ -10,6 +10,6 @@ package pessoa;
  * 
  * @author Sammy Guergachi <sguergachi at gmail.com>
  */
-public class Pai {
+public class Pai extends Pessoa {
 
 }
