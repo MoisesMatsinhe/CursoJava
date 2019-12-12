@@ -16,4 +16,13 @@ public class Pessoa {
     private String nome;
     private String idade;
 
+    public Pessoa() {
+    }
+
+    public Pessoa(String nome, String idade) {
+        this.nome = nome;
+        this.idade = idade;
+    }
+    
+
 }
